@@ -1,0 +1,10 @@
+p {
+  color: blue;
+
+  body.bravo & {
+    color: green;
+  }
+  body.girl & {
+    color: red;
+  }
+}

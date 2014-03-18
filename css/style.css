@@ -1,0 +1,12 @@
+/* line 1, ../sass/style.scss */
+p {
+  color: red;
+}
+/* line 4, ../sass/style.scss */
+body.bravo p {
+  color: green;
+}
+/* line 7, ../sass/style.scss */
+body.girl p {
+  color: blue;
+}
